@@ -116,19 +116,22 @@ DIU-OpenGL-Campus-Simulation
 ```
 
 ---
-# 🎬 Project Demo
+## 🎥 Project Preview
 
 <p align="center">
-  <img src="(https://github.com/Mdsifatmahmud/DIU-OpenGL-Campus-Simulation/blob/main/day.PNG)">
+  <img src="https://github.com/Mdsifatmahmud/DIU-OpenGL-Campus-Simulation/blob/main/day.PNG" width="800"/>
 </p>
+
 <p align="center">
-  <img src="https://github.com/Mdsifatmahmud/DIU-OpenGL-Campus-Simulation/blob/main/night.PNG">
+  <img src="https://github.com/Mdsifatmahmud/DIU-OpenGL-Campus-Simulation/blob/main/night.PNG" width="800"/>
 </p>
+
 <p align="center">
-  <img src="https://github.com/Mdsifatmahmud/DIU-OpenGL-Campus-Simulation/blob/main/raining.PNG">
+  <img src="https://github.com/Mdsifatmahmud/DIU-OpenGL-Campus-Simulation/blob/main/raining.PNG" width="800"/>
 </p>
+
 <p align="center">
-  <img src="https://github.com/Mdsifatmahmud/DIU-OpenGL-Campus-Simulation/blob/main/running%20student.PNG">
+  <img src="https://github.com/Mdsifatmahmud/DIU-OpenGL-Campus-Simulation/blob/main/running%20student.PNG" width="800"/>
 </p>
 
 ## ▶ How to Run the Project
